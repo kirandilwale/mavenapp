@@ -18,6 +18,10 @@
 >>>>>>> a3afba9b504748bc8fc4a4ddaefef17413498deb
 >>>>>> a3afba9b504748bc8fc4a4ddaefef17413498deb>>>>>> a3afba9b504748bc8fc4a4ddaefef17413498deb>>>>>> a3afba9b504748bc8fc4a4ddaefef17413498deb
 
+
+procedure
+// bug 102is fixed;
+
       <scope>test</scope>
     </dependency>
   </dependencies>
